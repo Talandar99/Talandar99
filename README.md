@@ -1,1 +1,3 @@
-# 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
+- ### 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
+- ### 📗 [My NeoVim configuration](https://github.com/Talandar99/nvim_config) 📗
+- ### 🐧 [Linux](https://github.com/Talandar99/vimwiki_studies/blob/main/BDiSI/BDiSI.md) 🐧
