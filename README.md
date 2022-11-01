@@ -1,4 +1,4 @@
-### Hello, Call me Talandar  
+### Hello
 #### About me:
 - Working as a Flutter developer 🐦 
 - Using Arch Linux as Daily driver 🐧
