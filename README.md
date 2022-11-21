@@ -11,3 +11,4 @@
 #### My configuration files:
 - 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
+- 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
