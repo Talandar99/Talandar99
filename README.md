@@ -1,8 +1,8 @@
 ### Hello
 #### About me:
-- Working as a Flutter developer 🐦 
+- Working as a Flutter Junior developer 🐦 
 - Using Arch Linux as Daily driver 🐧
-- Learning Rust 🦀
+- Learning Elixir ⚗️
 
 #### Check this out:
 - 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
