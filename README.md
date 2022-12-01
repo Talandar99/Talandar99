@@ -1,6 +1,6 @@
 ### Hello
 #### About me:
-- Working as a Flutter Junior developer 🐦 
+- Working as a Junior Flutter developer 🐦 
 - Using Arch Linux as Daily driver 🐧
 - Learning Elixir ⚗️
 
