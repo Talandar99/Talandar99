@@ -1,6 +1,6 @@
 ### Hello
 #### About me:
-- Working as a Junior Flutter developer 🐦 
+- 9 months of experience as flutter mobile developer 🐦 
 - Using Arch Linux as Daily driver 🐧
 - Learning Elixir ⚗️
 
