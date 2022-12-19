@@ -4,9 +4,7 @@
 - Using Arch Linux as Daily driver 🐧
 - Learning Elixir ⚗️
 
-#### Check this out:
-- 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
-- 🐧 [Linux stuff](https://github.com/Talandar99/vimwiki_studies/blob/main/BDiSI/BDiSI.md) 🐧
+## 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
 
 #### My configuration files:
 - 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
