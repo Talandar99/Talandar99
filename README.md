@@ -3,7 +3,7 @@
 - 9 months of experience as flutter mobile developer 🐦 
 - Using Arch Linux as Daily driver 🐧 
 - Learning Elixir ⚗️
-- Bash scripting <3 
+- Bash scripting 📜
 
 ## 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
 
