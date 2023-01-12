@@ -12,4 +12,4 @@
 - 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talandar99&langs_count=6&layout=compact&hide=matlab,cmake,javascript,css,python,c%2B%2B,c&show_icons=true&theme=tokyonight)](https://github.com/Talandar99/github-readme-stats)
+
