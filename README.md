@@ -14,4 +14,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talandar99&langs_count=6&layout=compact&hide=matlab,cmake,javascript,java,css,python,c%2B%2B,c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talandar99&langs_count=6&layout=compact&hide=matlab,swift,cmake,javascript,java,css,python,c%2B%2B,c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
