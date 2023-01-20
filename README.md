@@ -11,7 +11,3 @@
 - 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
 - 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talandar99&langs_count=6&layout=compact&hide=matlab,swift,cmake,javascript,java,css,python,c%2B%2B,c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
