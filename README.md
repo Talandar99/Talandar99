@@ -11,6 +11,6 @@
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
 
 ### 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
-<img src="https://www.codewars.com/users/Talandar99/badges/small">
+[<img src="https://www.codewars.com/users/Talandar99/badges/small">](https://www.codewars.com/users/Talandar99)
 
 
