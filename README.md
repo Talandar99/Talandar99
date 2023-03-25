@@ -2,7 +2,7 @@
 #### About me:
 - 9 months of experience as flutter mobile developer 🐦 
 - Using Arch Linux as Daily driver 🐧 
-- Learning Rust 🦀 and Elixir
+- Learning Rust 🦀 and Python 🐍
 - Bash scripting 📜
 
 #### My configuration files:
