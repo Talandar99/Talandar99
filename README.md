@@ -1,9 +1,8 @@
 ### Hello
 #### About me:
 - 9 months of experience as flutter mobile developer 🐦 
-- Using Arch Linux as Daily driver 🐧 
-- Learning Rust 🦀 and Python 🐍
-- Bash scripting 📜
+- I use Arch btw 🐧🩵
+- Currently learning Rust 🦀 and Python 🐍
 
 #### My configuration files:
 - 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
