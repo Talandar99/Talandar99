@@ -1,7 +1,7 @@
 ### Hello
 #### About me:
 - 9 months of experience as flutter mobile developer 🐦 
-- I use Arch btw 🐧🩵
+- I use Arch btw 🐧
 - Currently learning Rust 🦀 and Python 🐍
 
 #### My configuration files:
