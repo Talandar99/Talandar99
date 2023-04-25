@@ -5,7 +5,7 @@
 - Currently learning Rust 🦀 and Python 🐍
 
 #### My configuration files:
-- 📗 [i3](https://github.com/Talandar99/i3_config) 📗
+- 📗 [i3wm](https://github.com/Talandar99/i3_config) 📗
 - 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
 - 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
