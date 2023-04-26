@@ -15,6 +15,6 @@
 ### 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
 [<img src="https://www.codewars.com/users/Talandar99/badges/small">](https://www.codewars.com/users/Talandar99)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talandar99&theme=github_dark&exclude=JavaScript) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talandar99&theme=github_dark&exclude=JavaScript,Java,C%2B%2B) 
 </br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talandar99&theme=github_dark&exclude=JavaScript)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talandar99&theme=github_dark&exclude=JavaScript,Java,C%2B%2B)
