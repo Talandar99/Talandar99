@@ -2,7 +2,8 @@
 #### About me:
 - 9 months of experience as flutter mobile developer 🐦 
 - I use Arch btw 🐧
-- Currently learning Rust 🦀 and Python 🐍
+- Currently learning Rust 🦀 , and working as Python Intern 🐍
+
 
 #### My configuration files:
 - 📗 [i3wm](https://github.com/Talandar99/i3_config) 📗
