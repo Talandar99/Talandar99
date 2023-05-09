@@ -5,7 +5,7 @@
 - Currently learning Rust 🦀 , and working as Python Intern 🐍
 
 
-#### My configuration files:
+#### My configs:
 - 📗 [i3wm](https://github.com/Talandar99/i3_config) 📗
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
 - 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
