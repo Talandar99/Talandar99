@@ -7,8 +7,8 @@
 
 #### My configuration files:
 - 📗 [i3wm](https://github.com/Talandar99/i3_config) 📗
-- 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
 - 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
+- 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
 - 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
 - 📗 [Alacritty](https://github.com/Talandar99/alacritty_config) 📗
 
