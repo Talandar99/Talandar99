@@ -1,23 +1,18 @@
 ### Hello
 #### About me:
-- 9 months of experience as flutter mobile developer 🐦 
+- Python Software Engineer Intern
 - I use Arch btw 🐧
-- Currently learning Rust 🦀 , and working as Python Intern 🐍
+- Currently Learning Rust 🦀
 
+#### My .config files
+📗 [i3wm](https://github.com/Talandar99/i3_config)</br>
+📗 [Tmux](https://github.com/Talandar99/tmux_config)</br>
+📗 [Neovim](https://github.com/Talandar99/nvim_config)</br>
+📗 [Starship](https://github.com/Talandar99/starship_config)</br> 
+📗 [Alacritty](https://github.com/Talandar99/alacritty_config)</br>
 
-#### My .config files:
-- 📗 [i3wm](https://github.com/Talandar99/i3_config) 📗
-- 📗 [Tmux](https://github.com/Talandar99/tmux_config) 📗
-- 📗 [Neovim](https://github.com/Talandar99/nvim_config) 📗
-- 📗 [Starship](https://github.com/Talandar99/starship_config) 📗
-- 📗 [Alacritty](https://github.com/Talandar99/alacritty_config) 📗
-
-
-
-
-### 🦀 [Join Crab Cult](https://www.rust-lang.org/learn/get-started) 🦀 
 [<img src="https://www.codewars.com/users/Talandar99/badges/small">](https://www.codewars.com/users/Talandar99)
-
+</br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talandar99&theme=github_dark&exclude=JavaScript,Java,C%2B%2B) 
 </br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talandar99&theme=github_dark&exclude=JavaScript,Java,C%2B%2B)
