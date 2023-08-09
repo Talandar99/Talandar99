@@ -1,6 +1,6 @@
 ### Hello
 #### About me:
-- Python Software Engineer Intern
+- Junior Python Software Engineer
 - I use Arch btw 🐧
 - Currently Learning Rust 🦀
 
