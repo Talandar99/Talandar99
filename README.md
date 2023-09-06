@@ -1,8 +1,8 @@
 ### Hello
 #### About me:
 - Junior Python Software Engineer
-- I use Arch btw 🐧
-- Currently Learning Rust 🦀
+- I Love Linux 🐧
+- Currently Learning Rust 🦀 and improving my Python skills
 
 #### My .config files
 📗 [i3wm](https://github.com/Talandar99/i3_config)</br>
