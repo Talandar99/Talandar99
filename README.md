@@ -2,7 +2,7 @@
 #### About me:
 - Junior Python Software Engineer
 - I Love Linux 🐧
-- Currently Learning Rust 🦀 and improving my Python skills
+- Currently Learning Rust 🦀, C and improving my skills in Python 
 
 #### My .config files
 📗 [i3wm](https://github.com/Talandar99/i3_config)</br>
