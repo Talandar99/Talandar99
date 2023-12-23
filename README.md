@@ -1,8 +1,9 @@
 ### Hello
-#### About me:
-- Currently working as software Validator in Intel
+#### About:
 - I Love Linux 🐧
-- Learning Rust 🦀, C and improving my skills in Python 
+- Learning Rust 🦀, C
+- improving my skills in Python
+- Currently working as a software dev (Intel)
 
 #### My .config files
 📗 [i3wm](https://github.com/Talandar99/i3_config)</br>
