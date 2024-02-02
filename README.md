@@ -1,9 +1,9 @@
-### Hello
-#### About:
-- I Love Linux 🐧
+### Hi 
+#### About me:
+- Average Linux Enjoyer 🐧
 - Learning Rust 🦀, C
-- improving my Python skills
-- Currently working as a software dev (Intel)
+- Improving my Python skills
+- Currently working as a software dev at Intel
 
 #### My .config files
 📗 [i3wm](https://github.com/Talandar99/i3_config)</br>
