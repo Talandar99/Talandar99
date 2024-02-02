@@ -2,7 +2,7 @@
 #### About:
 - I Love Linux 🐧
 - Learning Rust 🦀, C
-- improving my skills in Python
+- improving my Python skills
 - Currently working as a software dev (Intel)
 
 #### My .config files
