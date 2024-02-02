@@ -1,6 +1,6 @@
 ### Hi 
 #### About me:
-- Average Linux Enjoyer 🐧
+- Linux User 🐧 (I use Arch Btw)
 - Learning Rust 🦀, C
 - Improving my Python skills
 - Currently working as a software dev at Intel
