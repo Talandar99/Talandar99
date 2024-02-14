@@ -1,9 +1,9 @@
 ### Hi 
 #### About me:
 - Linux User 🐧 (I use Arch Btw)
-- Learning Rust 🦀, C
-- Improving my Python skills
-- Currently working as a software dev at Intel
+- Learning C
+- Working as a software dev at Intel
+- Currently trying out DOOM Emacs
 
 #### My .config files
 📗 [i3wm](https://github.com/Talandar99/i3_config)</br>
