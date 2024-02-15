@@ -1,7 +1,7 @@
 ### Hi 
 #### About me:
 - Linux User 🐧 (I use Arch Btw)
-- Learning C
+- Learning C and Rust
 - Working as a software dev at Intel
 - Currently trying out DOOM Emacs
 
