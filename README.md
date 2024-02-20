@@ -1,4 +1,4 @@
-### Hi 
+### Hi  
 #### About me:
 - Linux User 🐧 (I use Arch Btw)
 - Learning C and Rust
