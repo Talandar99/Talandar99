@@ -1,6 +1,6 @@
 ### Hi  
 #### About me:
-- Linux User 🐧 (I use Arch Btw)
+- Linux User 🐧 (Slowly switching from Arch to Gentoo)
 - Learning C and Rust
 - Working as a software dev at Intel
 
