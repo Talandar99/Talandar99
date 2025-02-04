@@ -1,7 +1,7 @@
 ### Hi  
 #### About me:
 - Linux User 🐧 (Gentoo)
-- Learning C and Rust
+- Learning C
 - Working as a software dev at Intel
 
 #### My .config files
