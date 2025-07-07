@@ -1,7 +1,7 @@
 ### Hi  
 #### About me:
 - Linux User 🐧 (Gentoo)
-- Learning C
+- Learning C and GO
 - Working as a software dev at Intel
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talandar99&theme=github_dark&exclude=JavaScript,C%2B%2B,MATLAB,html) 
